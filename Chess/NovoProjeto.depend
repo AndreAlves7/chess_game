@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1644956456 source:c:\users\andre\onedrive\ambiente de trabalho\uni\programação i\novoprojeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<io.h>
+	<fcntl.h>
+	<string.h>
+	<unistd.h>
+
+1644960056 source:c:\users\andre\onedrive\ambiente de trabalho\chess\programação i\novoprojeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<io.h>
+	<fcntl.h>
+	<string.h>
+	<unistd.h>
+
